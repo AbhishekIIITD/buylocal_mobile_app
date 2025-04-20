@@ -50,7 +50,7 @@ Our goal is to **empower local vendors** by giving them a platform to list their
 
 | Splash Screen | Home Screen | Product List | Cart |
 |---------------|-------------|--------------|------|
-| ![Splash](homescreen.png) | ![Login](login/home.png) | ![Otp](otpscreen/products.png) |
+| ![Splash](homescreen.png) | ![Login](login.png) | ![Otp](otpscreen.png) |
 
 > Add your screenshots in the `/screenshots` folder and update the paths above accordingly.
 
