@@ -47,12 +47,16 @@ Our goal is to **empower local vendors** by giving them a platform to list their
 ---
 
 ## 🖼 Screenshots
-
+#workdone till now
+-Splash screen created
+-mobile input screen created
+-api service enabled
+-backend done
+-otp validity screen
 | Splash Screen | Home Screen | Product List | Cart |
 |---------------|-------------|--------------|------|
 | ![Splash](homescreen.png) | ![Login](login.png) | ![Otp](otpscreen.png) |
 
-> Add your screenshots in the `/screenshots` folder and update the paths above accordingly.
 
 ---
 
